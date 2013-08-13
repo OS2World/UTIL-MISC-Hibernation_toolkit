@@ -1,0 +1,18 @@
+2001-03-31  Andrew Belov  <andrew_belov@mtu-net.ru>
+
+	* shell.c, shell.h, hibpatch.c, makefile: Added SHELL patch
+
+2001-03-25  Andrew Belov  <andrew_belov@mtu-net.ru>
+
+	* makefile, os2krnl.c, os2krnl.h, os2ldr.c, os2ldr.h, packexe.c, patchtkt.c, patchtkt.h, pmviop.c, pmviop.h:
+	New file.
+
+	* makefile, os2krnl.c, os2krnl.h, os2ldr.c, os2ldr.h, packexe.c, patchtkt.c, patchtkt.h, pmviop.c, pmviop.h:
+	Semi-functional version (TODO: OS2LDR fixup)
+
+	* hibpatch.c, hibpatch.def: New file.
+
+	* hibpatch.c, hibpatch.def:
+	Semi-functional version (TODO: OS2LDR fixup)
+
+
